@@ -34,6 +34,21 @@
       "name": "Produto de teste",
       "price": 125.98,
       "id": 7
+    },
+    {
+      "name": "Bic",
+      "price": "23",
+      "id": 8
+    },
+    {
+      "name": "Linhares",
+      "price": "5",
+      "id": 9
+    },
+    {
+      "name": "Lameque",
+      "price": "2508",
+      "id": 10
     }
   ]
 }
